@@ -1,4 +1,5 @@
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
+[GitHub language count](https://img.shields.io/github/languages/top/rikrdinii1/statistical-analysis-project?color=green&logo=python&style=plastic)
 
 # Project: Statistical Analysis
 
